@@ -2,7 +2,8 @@
 📅 Course Dates: 17th – 20th June 2025
 
 ## Overview
-This week focused on developing practical Python skills for data handling, transformation, and exploration using `pandas`. The sessions included a mix of group activities and independent tasks designed to build confidence in core data manipulation techniques commonly used in technician and analyst roles.
+- This week focused on developing practical Python skills for data handling, transformation, and exploration using `pandas`. 
+- The sessions included a mix of group activities and independent tasks designed to build confidence in core data manipulation techniques commonly used in technician and analyst roles.
 
 # 🧠 Topics Covered
 
