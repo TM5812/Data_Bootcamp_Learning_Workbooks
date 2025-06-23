@@ -1,45 +1,58 @@
-Week 2: Introduction to Data Visualisation and Analysis Tools
-Course Dates: 12th May – 7th July 2025
+# Week 2 – Introduction to Data Visualisation and Analysis Tools  
+📅 Course Dates: 20th – 23rd May 2025
 
-🗂️ Overview
-- This week focused on building foundational skills in data visualisation and analysis
-- Emphasis on Tableau, Power BI, and applying data insights to real-world contexts like music streaming and healthcare. 
-- Learners explored different BI tools, analysed real datasets, and designed dashboards to support data-driven decisions.
+## Overview
 
-🧠 Concepts & Skills Learned
+- This week introduced industry-standard business intelligence (BI) tools and developed skills in transforming datasets into meaningful visual insights.
+- Emphasis was placed on Tableau and Power BI, with practical applications using real-world datasets from healthcare and music streaming.
 
-Day 1: Exploring Tableau
-- Compared key Tableau products = Tableau Desktop, Public, Server, Online, Prep, Mobile.
-- Identified limitations of Tableau Public (e.g., no local file saving, public data only).
+## 🗂️ Topics Covered
 
-Created a Tableau dashboard using the EMSI Job Change dataset, featuring:
-- A bar chart showing % job change.
-- A UK map of impacted city locations.
+### 📊 Tableau Fundamentals (Day 1)
+- Compared Tableau products:  
+  - Tableau Desktop, Public, Server, Online, Prep, Mobile  
+- Discussed Tableau Public limitations:
+  - No local file saving  
+  - Data is publicly visible  
+- Created an EMSI Job Change dashboard featuring:
+  - Bar chart showing % change in job roles  
+  - UK map visualising impacted cities  
 
-Day 2: Analysing Spotify and Health Datasets
-- Spotify Dataset: Identified top artists: Drake, Chris Brown, Nobuo Uematsu, Future, Hans Zimmer.
-- Summarised each artist’s most-streamed tracks.
-- Health Dataset: Trend 1: High cholesterol in older populations → Recommended targeted health monitoring initiatives.
-- Trend 2: Correlation between liver and stomach cancer diagnoses → Suggested screening alignment.
-- Reflected on how such insights can guide NHS data-driven strategies to improve health outcomes.
+### 🎧 Health & Culture Data Analysis (Day 2)
+- **Spotify Dataset**:  
+  - Identified top-streamed artists: Drake, Chris Brown, Nobuo Uematsu, Future, Hans Zimmer  
+  - Summarised their most-streamed tracks  
 
-Days 3–4: Power BI Labs
-- Lab 1: Importing data into Power BI Desktop.
-- Lab 2: Loading and transforming data for analysis.
-- Lab 7: Designing clean, informative reports in Power BI.
-- Lab 10: Creating dashboards using visualised metrics.
+- **Healthcare Dataset**:  
+  - Trend 1: High cholesterol in older populations → Suggested targeted health monitoring  
+  - Trend 2: Correlation between liver and stomach cancer cases → Recommended screening alignment
+  -  Reflected on how data can inform NHS strategy and improve public health outcomes  
 
-These labs solidified understanding of:
-- Data connection and loading.
-- Data transformation via Power Query.
-- Dashboard layout and presentation.
-- Visual storytelling using metrics, charts, and filters.
+### 📈 Power BI Labs (Days 3–4)
+- Lab 1: Importing datasets into Power BI  
+- Lab 2: Data transformation using Power Query  
+- Lab 7: Designing informative Power BI reports  
+- Lab 10: Creating dashboards with key metrics  
 
-💡 Reflections
-Week 2 transitioned from spreadsheet familiarity to industry-standard BI tools. 
+These labs reinforced:
+- Data connection, loading, and transformation  
+- Dashboard structure and layout  
+- Visual storytelling with metrics, slicers, and charts  
 
-It emphasised:
-- The role of visualisation in making data accessible.
-- The importance of analysing data with both technical rigour and business relevance.
-- How health and cultural datasets can inform real-world action and decision-making.
+## 🛠️ Tools & Functions Practiced
+
+- Tableau Dashboards – Build interactive visualisations  
+- UK Map Visuals – Represent geographical insights  
+- Power BI Desktop – Load, transform, and visualise data  
+- Power Query – Clean and prepare datasets  
+- Filters, Charts, Cards – Drive user interaction  
+- Data-Driven Recommendations – Apply findings to business/health strategies  
+
+## ✅ Reflections
+
+- Gained confidence moving from spreadsheets to BI platforms  
+- Strengthened understanding of how data visualisation enhances accessibility  
+- Learned to apply technical insights to real-world issues in health and culture  
+- Improved ability to communicate findings through clean, impactful dashboards  
+
 
