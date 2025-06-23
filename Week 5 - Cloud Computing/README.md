@@ -1,35 +1,69 @@
-Week 5 - Cloud Computing and Microsoft Azure
-Course Dates: 9th June – 13th June 2025
+# Week 5 – Cloud Computing and Microsoft Azure  
+📅 Course Dates: 9th June – 13th June 2025
 
-Overview:
+## Overview
+- This week introduced foundational cloud computing principles, data governance, and hands-on experience with Microsoft Azure. 
+- Explored cloud models, legal considerations, and used Azure tools to query, store, and analyse data—culminating in a scenario-based project.
 
-- Foundational knowledge and practical experience related to cloud computing concepts, data laws, and Microsoft Azure services.
+## 🗂️ Topics Covered
 
-Concepts Covered: 
+### ☁️ Cloud Computing Fundamentals (Day 1)
+- Defined core concepts of cloud computing and real-world use cases (e.g., Netflix, Dropbox).
+- Compared cloud service models:
+  - **IaaS** – Infrastructure as a Service  
+  - **PaaS** – Platform as a Service  
+  - **SaaS** – Software as a Service  
+- Explored deployment models:
+  - **Public**, **Private**, **Hybrid**, **Community**  
+- Reviewed major cloud providers:
+  - Microsoft Azure, AWS, Google Cloud
 
-Day 1:
-- Explored cloud computing fundamentals, including its real-world applications (e.g., Netflix).
-- Compared cloud models such as IaaS, PaaS, and SaaS, and their use cases.
-- Learned about different cloud deployment models: public, private, hybrid, and community clouds.
-- Gained an understanding of major cloud providers and their key features (AWS, Google Cloud, Azure).
+### ⚖️ Data Laws & Governance (Day 2)
+Studied UK data laws relevant to cloud-based data management:
+- **Computer Misuse Act**  
+- **Data Protection Act (DPA)**  
+- Explored issues in:
+  - Data privacy  
+  - Copyright infringement  
+  - Employee data rights  
+- Emphasised compliance and accountability in digital environments
 
-Day 2:
-- Studied data laws and regulations relevant to cloud and data management, including the Computer Misuse Act and the Data Protection Act.
-- Explored issues such as data privacy, copyright infringement, and employee data rights.
+### 🧪 Azure Labs – Data Storage & Querying (Day 3)
+Hands-on experience using Azure services for data analytics:
+- Explored relational vs non-relational storage solutions  
+- Practised SQL queries within the Azure portal  
+- Visualised and analysed data using built-in Azure tools  
 
-Day 3:
-- Completed hands-on labs exploring relational and non-relational data storage, data analytics, and SQL querying within the Azure environment.
-- Practiced creating queries and visualising data analytics using Azure tools.
+### 🐾 Scenario Project + DP-900 Prep (Day 4)
+- Completed **DP-900** exam-style questions to consolidate theory
+- Worked on a **scenario-based project**:  
+  - Client: *Paws & Whiskers* Pet Shop  
+  - Goal: Transition from manual to cloud-based data systems  
+  - Applied Azure services for:
+    - Data storage & retrieval  
+    - SQL analytics  
+    - Reporting dashboards  
+- Addressed wider issues:
+  - Security measures  
+  - Backup strategies  
+  - Legal compliance  
 
-Day 4:
-- Worked on Azure DP-900 practice exam to reinforce theoretical knowledge.
-- Worked on a scenario project (“Paws & Whiskers” pet shop) to apply Azure solutions for data storage, analysis, and reporting.
-- Discussed additional considerations such as security, backup strategies, and compliance with data laws.
+## 🛠️ Tools & Topics Practised
 
-Reflections:
-- Gained clear understanding of cloud computing concepts and Azure’s role in real-world applications.
-- Hands-on labs boosted confidence using Azure tools for data storage, querying, and visualization.
-- Learned the importance of data laws and ethical responsibilities in managing data securely.
-- Realized some trial account limits affected hands-on experience but still valuable for foundational skills.
-- Appreciated teamwork during the scenario project, improving communication in technical contexts.
-- Identified areas for growth, including advanced Azure features and cybersecurity knowledge.
+- **Microsoft Azure Portal**  
+- SQL in cloud environments  
+- Azure Data Explorer  
+- Azure relational/non-relational data services  
+- Data visualisation in cloud platforms  
+- Cloud deployment strategies  
+- Data privacy & compliance frameworks  
+
+## ✅ Reflections
+
+- Built confidence working with Azure services for data storage, querying, and visualisation  
+- Understood practical implications of cloud models and legal requirements  
+- Team collaboration during the *Paws & Whiskers* project enhanced communication in technical problem-solving  
+- Encountered trial account limitations, but gained foundational experience  
+- Identified future learning goals:  
+  - Deepening knowledge of Azure tools  
+  - Enhancing awareness of cloud security and compliance best practices  
