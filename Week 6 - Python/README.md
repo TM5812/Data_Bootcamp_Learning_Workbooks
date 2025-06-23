@@ -1,4 +1,6 @@
-# Week 6 – Python (17th – 20th June 2025)
+# Week 6 – Python
+📅 Course Dates: Monday 12th May – Thursday 15th May 2025
+
 ## Overview
 This week focused on developing practical Python skills for data handling, transformation, and exploration using `pandas`. The sessions included a mix of group activities and independent tasks designed to build confidence in core data manipulation techniques commonly used in technician and analyst roles.
 
