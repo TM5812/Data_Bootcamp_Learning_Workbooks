@@ -1,56 +1,53 @@
-Week 1 Summary: Foundations of Data Handling and Compliance
-Course Dates: Monday 12th May – Thursday 15th May 2025
+# Week 1 – Foundations of Data Handling and Compliance + Introduction to Excel 
+📅 Course Dates: Monday 12th May – Thursday 15th May 2025
 
-🗂️ Overview
+## Overview
+- This week provided a foundational understanding of working with data responsibly and effectively
+- The sessions balanced legal and ethical considerations with hands-on experience using Excel to analyse, categorise, and present data.
 
-This week introduced the fundamentals of working with data responsibly and effectively. 
-It combined legal and ethical considerations with hands-on spreadsheet tasks that built confidence in manipulating and analysing datasets.
+## 🗂️ Topics Covered
 
-🛡️ Key Topics Covered
+### 🛡️ Data Laws and Ethics (Day 1)
+- Researched major UK/EU data legislation:
+  - Data Protection Act (UK)
+  - GDPR (EU)
+  - Freedom of Information Act (FOIA)
+  - Computer Misuse Act
+  - Explored the purpose, impact, and real-world consequences of non-compliance
+  - Reflected on ethical handling of data within professional roles
 
-Day 1: Data Protection Laws and Ethics
-Researched and reflected on the following data laws:
-- Data Protection Act (UK)
-- GDPR (EU)
-- Freedom of Information Act (FOIA)
-- Computer Misuse Act
-- Explored the purpose, real-world application, and consequences of breach for each law.
-- Reflected on how these regulations directly impact data roles and ethical data handling.
+### 📅 Spreadsheet Fundamentals (Day 2)
+- Created and formatted structured tables in Excel
+- Applied formulas such as `SUM` and `AVERAGE`
+- Used conditional formatting to highlight trends
+- Completed an independent analysis task on a sample dataset
 
-📅 Day 2: Spreadsheet Fundamentals (Excel)
-- Created and formatted tables in Excel.
-- Used filter, SUM, and AVERAGE functions.
-- Applied conditional formatting to highlight trends.
-- Practised calculating averages, identifying top performers, and working with structured data.
-- Engaged in a creative task applying the day's skills to explore a dataset independently.
+### 📈 Pivot Tables & Data Categorisation (Day 3)
+- Built pivot tables using:
+  - Retail sales data
+  - Bike sales data with demographic splits
+  - Used the `SWITCH` function to classify numeric ranges (e.g., High, Medium, Low)
+  - Interpreted data trends by region, age, and gender
+  - Generated data-driven marketing insights
 
-📈 Day 3: Pivot Tables and Data Categorisation
-Built pivot tables using:
-- A retail sales dataset.
-- A bike sales dataset with demographic breakdowns.
-- Answered analytical questions on market performance and sales trends by region, age, and gender.
-- Used the SWITCH function to classify sales volumes (e.g., “High”, “Medium”, “Low”).
-- Reflected on trends and formulated data-driven marketing insights.
+### 📊 Presenting Data Insights (Day 4)
+- Planned how to communicate findings to senior stakeholders
+- Learned techniques for public speaking and data storytelling
+- Evaluated Excel vs Power BI for impactful reporting
 
-📊 Day 4: Presenting Data Insights
-Planned how to deliver insights to a board of directors.
-Learned best practices for:
-- Preparing for executive presentations.
-- Public speaking.
-- Tailoring data storytelling for senior decision-makers.
-- Evaluated visualisation tools such as Excel and Power BI for reporting impactfully.
+## 🛠️ Tools & Functions Practiced
 
-🧠 Tools and Functions Practiced
-- Excel Tables = Organise and filter data
-- SUM / AVERAGE =	Basic aggregation
-- Conditional Formatting = Highlight key data trends
-- Pivot Tables = Summarise complex datasets
-- SWITCH Function	= Classify numeric ranges
-- Charts (Line, Pie, Column) = Visualise insights
-- Presentation Planning	= Communicate findings clearly
+- Excel Tables – Organise and filter data  
+- `SUM`, `AVERAGE` – Perform basic aggregations  
+- Conditional Formatting – Highlight patterns  
+- Pivot Tables – Summarise and explore datasets  
+- `SWITCH` – Categorise values using logic  
+- Charts (Line, Pie, Column) – Visualise data  
+- Presentation Skills – Communicate insights clearly  
 
-✅ Reflections
-- Week 1 offered a balanced introduction to data ethics and hands-on Excel skills, laying a strong foundation for responsible data handling and confident analysis. 
-- The pivot table and SWITCH exercises helped reinforce logical thinking and business awareness
-- The presentation planning tasks encouraged communication strategy and audience alignment.
+## ✅ Reflections
 
+- Built a strong foundation in responsible data handling and practical Excel use  
+- Gained awareness of key legislation affecting data roles  
+- Improved confidence in summarising and categorising data with pivot tables  
+- Practised aligning communication with the needs of executive audiences  
