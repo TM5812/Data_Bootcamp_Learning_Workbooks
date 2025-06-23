@@ -1,69 +1,83 @@
-Week 3: Introduction to Databases and SQL Querying
-Course Dates: 27th May – 30th May
+# Week 3 – Introduction to Databases and SQL Querying  
+📅 Course Dates: 27th May – 30th May 2025
 
-🗂️ Overview
-- Week 3 focused on understanding how databases work and developing hands-on SQL skills. 
-- The week blended foundational theory with practical querying using a sample world database. 
-- Explored relational database structures, wrote various SQL queries, and designed schemas for a retail business scenario.
+## Overview
 
-🧠 Concepts & Skills Learned
+- This week introduced the fundamentals of database structures and SQL querying.
+- Explored how relational databases operate, practised writing SQL commands, and designed a retail database schema that applied real-world business logic.
 
-Day 1: Database Foundations
-Learned key relational database concepts:
-- Primary keys vs Secondary keys
-- Foreign keys and table relationships (1:1, 1:M, M:M)
-- Explored real-world examples (e.g., passports, school mentors, courses)
+## 🗂️ Topics Covered
 
-Compared relational vs non-relational databases:
-- Structured vs flexible data formats
-- Best use cases for each (e.g., e-commerce, banking)
+### 🏛️ Database Foundations (Day 1)
+- Learned core relational concepts:
+  - Primary Keys vs Secondary Keys  
+  - Foreign Keys and table relationships:  
+    - One-to-One (1:1)  
+    - One-to-Many (1:M)  
+    - Many-to-Many (M:M)  
+- Real-world analogies:  
+  - Passports (1:1), Mentors (1:M), Courses (M:M)  
+- Compared relational vs non-relational databases:
+  - Structured vs flexible data formats  
+  - Use cases: banking, e-commerce, content storage  
 
-Day 3: SQL JOIN Types
-- Studied various SQL JOIN operations with real-world use cases:
+### 🔗 SQL JOIN Types (Day 3)
+Explored common SQL JOIN operations and their applications:
 
-JOIN Type	Purpose
-- INNER JOIN	Retrieves only matching rows from both tables
-- LEFT JOIN	All records from left table + matched from right
-- RIGHT JOIN	All records from right table + matched from left
-- FULL JOIN	All records from both, matched or unmatched
-- CROSS JOIN	Cartesian product of two tables
-- SELF JOIN	Join a table to itself (e.g., employee-manager hierarchy)
+| JOIN Type   | Purpose                                               |
+|-------------|--------------------------------------------------------|
+| INNER JOIN  | Retrieves only matching rows from both tables          |
+| LEFT JOIN   | All records from left table + matched from right       |
+| RIGHT JOIN  | All records from right table + matched from left       |
+| FULL JOIN   | All records from both tables, matched or unmatched     |
+| CROSS JOIN  | Returns Cartesian product of two tables                |
+| SELF JOIN   | Join a table to itself (e.g., employee-manager links)  |
 
-Day 4: Retail Database Design
-- Designed a relational database for a small retail business with a loyalty program:
+### 🛒 Retail Database Design (Day 4)
+Designed a scalable relational schema for a retail business with loyalty programs:
 
-Schema Design:
-- Tables: Products, Customers, LoyaltyAccounts, Sales, SalesDetails
-- Defined primary and foreign key relationships (1:1, 1:M)
+- **Schema Tables**:  
+  - `Products`, `Customers`, `LoyaltyAccounts`, `Sales`, `SalesDetails`  
+- **Relationships**:  
+  - 1:1 (e.g., Customer → LoyaltyAccount)  
+  - 1:M (e.g., Customer → Sales)  
+- **SQL Implementation**:  
+  - `CREATE DATABASE`, `CREATE TABLE`, `PRIMARY KEY`, `FOREIGN KEY`, `INSERT`  
+- **Maintenance Plan**:  
+  - Used `TRIGGERS` for stock updates  
+  - Implemented role-based access and backups for security  
 
-SQL Implementation:
-- CREATE DATABASE, CREATE TABLE, PRIMARY KEY, FOREIGN KEY
-- Sample INSERT statements to populate data
+### 🧪 SQL Practical (world_db Dataset)
+Practised real-world SQL challenges using a global cities dataset:
 
-Maintenance Plan:
-- Use of TRIGGERS for automatic stock updates
-- Backup strategy and role-based access for security
+| Scenario                                 | SQL Concepts Used                        |
+|------------------------------------------|------------------------------------------|
+| Count US cities                          | `COUNT()`                                |
+| Find highest life expectancy             | `ORDER BY` + `LIMIT`                     |
+| Cities with “New” in the name            | `LIKE '%New%'`                           |
+| Top 10 populous cities                   | `ORDER BY population DESC LIMIT 10`      |
+| Cities over 2 million population         | `WHERE population > 2000000`             |
+| Cities starting with “Be”               | `LIKE 'Be%'`                             |
+| Mid-size cities (500k–1M)                | `BETWEEN`                                |
+| Sort cities alphabetically               | `ORDER BY name ASC`                      |
+| Most/least populated cities              | Aggregates + Sorting                     |
+| Filter capital and European cities       | `WHERE` + `AND`                          |
+| Average population by country            | `GROUP BY` + `AVG()`                     |
+| High GDP per capita cities               | Conditional Filtering                    |
+| City name frequency >1                   | `GROUP BY name HAVING COUNT(*) > 1`      |
 
-Day 4: SQL Practical (world_db)
-- Completed practical SQL challenges using a sample world database:
+## 🛠️ Tools & SQL Functions Practised
 
-Scenario	Query Focus
-- Count cities in the USA =	COUNT()
-- Find highest life expectancy = ORDER BY + LIMIT
-- List cities with "New" in the name	= LIKE '%New%'
-- Top 10 populous cities	= ORDER BY population DESC LIMIT 10
-- Cities over 2 million population =	WHERE population > 2000000
-- Cities starting with "Be"	= WHERE name LIKE 'Be%'
-- Mid-size cities (500k–1M) =	BETWEEN
-- Sort cities alphabetically	= ORDER BY name ASC
-- Most and least populated cities	= Aggregate + sorting
-- Capital cities, European cities	= Filtering by region/country/capital
-- Average population by country =	GROUP BY + AVG()
-- High GDP per capita cities	- Conditional filtering
-- City name frequency	= GROUP BY name HAVING COUNT(*) > 1
+- `CREATE DATABASE`, `CREATE TABLE` – Define relational structure  
+- `PRIMARY KEY`, `FOREIGN KEY` – Set relationships  
+- `INSERT INTO` – Populate tables  
+- `JOIN` types – Merge related data  
+- `GROUP BY`, `HAVING`, `AVG`, `COUNT` – Aggregate data  
+- `LIKE`, `BETWEEN`, `ORDER BY`, `LIMIT` – Filter and sort  
 
-💬 Reflections
-- This week offered a deep dive into relational thinking, data modelling, and SQL logic.
-- From theoretical concepts to real-life querying, the blend of design and practice supported the development of technical fluency with databases. 
-- Building a database schema from scratch added valuable experience in structuring and translating business needs into scalable data models.
+## ✅ Reflections
 
+- Developed a strong foundation in database logic and structure  
+- Practised applying SQL syntax to solve real-world questions  
+- Built a relational schema from scratch, translating business needs into scalable table design  
+- Gained confidence in using JOINs, filters, and aggregations for data analysis  
