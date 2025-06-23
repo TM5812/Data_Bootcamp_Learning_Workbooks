@@ -1,5 +1,5 @@
 # Week 1 – Foundations of Data Handling and Compliance + Introduction to Excel 
-📅 Course Dates: Monday 12th May – Thursday 15th May 2025
+📅 Course Dates: 12th – 15th May 2025
 
 ## Overview
 - This week provided a foundational understanding of working with data responsibly and effectively
