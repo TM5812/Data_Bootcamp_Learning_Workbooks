@@ -1,26 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thandeka Mukazi
-=======================================================================================================================================
+# Hi, my name is Thandeka Mukazi 👋
 
-Data Analyst In Training
-------------------------
+**Data Analyst In Training**
 
-I am a Psychology graduate who has an interest in using data to support meaningful causes, especially around charities and healthcare (mental health and well being).
+Hi there, my name is Thandeka — a Psychology graduate who is currently training to be a junior data analyst after completing a data bootcamp with Just IT. My learning journey hasn't been easy, but it's been real, honest, and fuelled with curiosity.
 
-I enrolled onto Data Skills Bootcamp where I have been introduced to tools and concepts such as Excel, SQL Power BI, Cloud Computing and Python for data cleaning, analysis and visualisation.
+I didn't come from a traditional technical background. My degree touched upon working with and understanding data but nothing massively technical. For a long time — and sometimes even now — I doubted whether I had a "data or maths brain." However, I am learning that analysis isn't just about numbers — it's about asking meaningful questions, organising chaos, and discovering patterns that add value to people and businesses in making effective decisions.
 
-I am still very early in my journey, however, I want to develop my technical confidence and apply data in ways that make a real-world impact.
+I value honesty, reflection, and learning by doing. I'm not someone who pretends to know it all — I ask questions, dig deep, and work hard to make sense of problems. If I don't know something, I'll figure it out. If I'm stuck, I'll stay curious. That's the mindset I bring into every challenge.
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [dekamukazi025@gmail.com](mailto:dekamukazi025@gmail.com)
+I care deeply about the human side of things — especially mental health and social impact. I also have a mind that likes to spot patterns and put them together into a bigger picture. Data feels like a powerful way to bridge those values with real-world decision-making. I'm drawn to projects that go beyond the technical — ones that help make a difference, even if in small ways.
 
-### Skills
+---
 
+### Throughout the bootcamp, I built a foundational understanding and applied knowledge in:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a>
-</p>
+- Excel, Tableau, and Power BI for data cleaning and visualisation  
+- SQL basics  
+- Python (using Google Colab, Pandas, Matplotlib)  
+- Understanding data protection and compliance (e.g. GDPR, DPA 2018)  
+- Structuring analytical thinking from raw datasets to business insights  
 
+Beyond this, I have a lot to learn, but I've been working hard to build confidence through small wins and hands-on projects — including a portfolio project exploring mental health trends using public datasets.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/TM5812" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/thandeka-mukazi-1080871b1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+🌍 I'm based in the **United Kingdom**  
+✉️ You can contact me at: [dekamukazi025@gmail.com](mailto:dekamukazi025@gmail.com)
+
+---
+
+## Skills
+
+- Python  
+- MySQL  
+- Google Cloud  
+- Wordpress  
+
+## Socials
+
+- [GitHub](https://github.com/)  
