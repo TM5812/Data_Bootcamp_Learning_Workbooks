@@ -34,8 +34,15 @@ Beyond this, I have a lot to learn, but I've been working hard to build confiden
 - Python  
 - MySQL  
 - Google Cloud  
-- Wordpress  
+- Wordpress
+- Exel
+- SPSS
+- Tableau
+- Power BI 
 
 ## Socials
 
-- [GitHub](https://github.com/)  
+- [GitHub](https://github.com/)
+- [LinkedIn](www.linkedin.com/in/thandeka-mukazi-1080871b1)
+
+
